@@ -16,9 +16,13 @@ ALL config is in code.
 THIS IS DEFAULT CONFIG - DMX IN --> ARTNET 8 Universe DHCP
 
 int dmx_mode = 0; //1 = artnet-->dmx, 0 = dmx -->artnet
+
 int dhcp = 1; // 1 = dhcp , 0 = static ip
+
 byte intN = 0; //NET
+
 byte intS = 0; //Subnet
+
 byte intU = 8; //Universe
 
 --------
