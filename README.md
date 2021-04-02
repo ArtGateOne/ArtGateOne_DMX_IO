@@ -24,7 +24,7 @@ byte intU = 8; //Universe
 --------
 
 Required
-ArduinoUno
+ArduinoUno &
 Max 485 module
 
 ---------
@@ -32,10 +32,15 @@ Max 485 module
 WIRING
 
 Arduino - MAX 485 module
+
 GND - GND
+
 +5 - VCC
+
 0 - RO
+
 1 - DI
+
 2 - DE + RE
 
 
