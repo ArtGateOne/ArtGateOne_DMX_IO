@@ -13,6 +13,8 @@ U can use static IP Or DHCP.
 
 ALL config is in code.
 
+
+
 THIS IS DEFAULT CONFIG - DMX IN --> ARTNET 8 Universe DHCP
 
 int dmx_mode = 0;
