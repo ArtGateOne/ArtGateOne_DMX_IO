@@ -31,7 +31,7 @@ byte intU = 8; //Universe
 --------
 
 Required
-ArduinoUno &
+ArduinoUno & Ethernet Shield &
 Max 485 module
 
 ---------
