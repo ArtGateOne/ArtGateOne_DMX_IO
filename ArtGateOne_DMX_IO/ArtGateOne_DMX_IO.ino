@@ -157,7 +157,7 @@ void makeArtPoolReply() {
 
   ArtPoolReply[18] = intN; // NetSwitch
   ArtPoolReply[19] = intS; // Net Sub Switch
-  ArtPoolReply[20] = 0xFF; // OEMHi
+  ArtPoolReply[20] = 0x00; // OEMHi
   ArtPoolReply[21] = 0xFF; // OEMLow
   ArtPoolReply[22] = 0x00; // Ubea Version
   ArtPoolReply[23] = 0xF0; // Status1
