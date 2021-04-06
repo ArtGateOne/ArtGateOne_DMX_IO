@@ -3,6 +3,7 @@
 */
 
 #include <lib_dmx.h>  // comment/uncomment #define USE_UARTx in lib_dmx.h as needed
+#include <SPI.h>
 #include <Ethernet.h>
 #include <EthernetUdp.h>
 
